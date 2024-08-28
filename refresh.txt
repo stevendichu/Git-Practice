@@ -1,2 +1,3 @@
 A refresher exercise on Git essentials including commits and branching plus merging
+A feature has been added
 
